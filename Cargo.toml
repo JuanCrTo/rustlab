@@ -1,0 +1,3 @@
+[workspace]
+resolver = "3"
+members = ["lang", "dsa", "practice", "concurrency", "async_tokio", "systems", "ecosystem", "projects/*"]
