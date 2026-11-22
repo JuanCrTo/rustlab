@@ -3,29 +3,5 @@
 version = 4
 
 [[package]]
-name = "async_tokio"
-version = "0.1.0"
-
-[[package]]
-name = "concurrency"
-version = "0.1.0"
-
-[[package]]
-name = "dsa"
-version = "0.1.0"
-
-[[package]]
-name = "ecosystem"
-version = "0.1.0"
-
-[[package]]
-name = "lang"
-version = "0.1.0"
-
-[[package]]
-name = "practice"
-version = "0.1.0"
-
-[[package]]
-name = "systems"
+name = "exercise"
 version = "0.1.0"
